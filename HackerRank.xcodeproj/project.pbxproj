@@ -15,6 +15,8 @@
 		E8E8BCFE230BE27C008E4BCB /* Counting Valleys.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E8BCFD230BE27C008E4BCB /* Counting Valleys.swift */; };
 		E8E8BD00230BE373008E4BCB /* Jumping On Clouds Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E8BCFF230BE373008E4BCB /* Jumping On Clouds Tests.swift */; };
 		E8E8BD02230BE43C008E4BCB /* Jumping On Clouds.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E8BD01230BE43C008E4BCB /* Jumping On Clouds.swift */; };
+		E8E8BD04230BE4D9008E4BCB /* Repeated String Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E8BD03230BE4D9008E4BCB /* Repeated String Tests.swift */; };
+		E8E8BD06230BE5B1008E4BCB /* Repeated String.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E8BD05230BE5B1008E4BCB /* Repeated String.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,6 +43,8 @@
 		E8E8BCFD230BE27C008E4BCB /* Counting Valleys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Counting Valleys.swift"; sourceTree = "<group>"; };
 		E8E8BCFF230BE373008E4BCB /* Jumping On Clouds Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Jumping On Clouds Tests.swift"; sourceTree = "<group>"; };
 		E8E8BD01230BE43C008E4BCB /* Jumping On Clouds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Jumping On Clouds.swift"; sourceTree = "<group>"; };
+		E8E8BD03230BE4D9008E4BCB /* Repeated String Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Repeated String Tests.swift"; sourceTree = "<group>"; };
+		E8E8BD05230BE5B1008E4BCB /* Repeated String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Repeated String.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +100,7 @@
 				E8E8BCF8230BDD71008E4BCB /* Shock Merchant Tests.swift */,
 				E8E8BCFB230BE1B5008E4BCB /* Counting Valley Tests.swift */,
 				E8E8BCFF230BE373008E4BCB /* Jumping On Clouds Tests.swift */,
+				E8E8BD03230BE4D9008E4BCB /* Repeated String Tests.swift */,
 			);
 			path = HackerRankTests;
 			sourceTree = "<group>";
@@ -116,6 +121,7 @@
 				E8E8BCF6230BDD59008E4BCB /* Shock Merchant.swift */,
 				E8E8BCFD230BE27C008E4BCB /* Counting Valleys.swift */,
 				E8E8BD01230BE43C008E4BCB /* Jumping On Clouds.swift */,
+				E8E8BD05230BE5B1008E4BCB /* Repeated String.swift */,
 			);
 			path = Warmup;
 			sourceTree = "<group>";
@@ -231,6 +237,7 @@
 				E8E8BCF3230BDC75008E4BCB /* main.swift in Sources */,
 				E8E8BCFE230BE27C008E4BCB /* Counting Valleys.swift in Sources */,
 				E8E8BCF7230BDD59008E4BCB /* Shock Merchant.swift in Sources */,
+				E8E8BD06230BE5B1008E4BCB /* Repeated String.swift in Sources */,
 				E8E8BD02230BE43C008E4BCB /* Jumping On Clouds.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -241,6 +248,7 @@
 			files = (
 				E8E8BCF9230BDD71008E4BCB /* Shock Merchant Tests.swift in Sources */,
 				E8E8BCFC230BE1B5008E4BCB /* Counting Valley Tests.swift in Sources */,
+				E8E8BD04230BE4D9008E4BCB /* Repeated String Tests.swift in Sources */,
 				E8E8BD00230BE373008E4BCB /* Jumping On Clouds Tests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
