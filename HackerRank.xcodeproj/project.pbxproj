@@ -20,6 +20,7 @@
 		E8E8BD08230C09AE008E4BCB /* Electronic Shop Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E8BD07230C09AE008E4BCB /* Electronic Shop Tests.swift */; };
 		E8E8BD0A230C1353008E4BCB /* Electronic Shop.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E8BD09230C1353008E4BCB /* Electronic Shop.swift */; };
 		E8E8BD0C230E28BF008E4BCB /* Hour Glass 2D Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E8BD0B230E28BF008E4BCB /* Hour Glass 2D Tests.swift */; };
+		E8E8BD0E230E47CD008E4BCB /* Hour Glass 2D.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E8BD0D230E47CD008E4BCB /* Hour Glass 2D.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		E8E8BD07230C09AE008E4BCB /* Electronic Shop Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Electronic Shop Tests.swift"; sourceTree = "<group>"; };
 		E8E8BD09230C1353008E4BCB /* Electronic Shop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Electronic Shop.swift"; sourceTree = "<group>"; };
 		E8E8BD0B230E28BF008E4BCB /* Hour Glass 2D Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Hour Glass 2D Tests.swift"; sourceTree = "<group>"; };
+		E8E8BD0D230E47CD008E4BCB /* Hour Glass 2D.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Hour Glass 2D.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,6 +133,7 @@
 				E8E8BD01230BE43C008E4BCB /* Jumping On Clouds.swift */,
 				E8E8BD05230BE5B1008E4BCB /* Repeated String.swift */,
 				E8E8BD09230C1353008E4BCB /* Electronic Shop.swift */,
+				E8E8BD0D230E47CD008E4BCB /* Hour Glass 2D.swift */,
 			);
 			path = Warmup;
 			sourceTree = "<group>";
@@ -245,6 +248,7 @@
 			files = (
 				E8E8BD0A230C1353008E4BCB /* Electronic Shop.swift in Sources */,
 				E8E8BCF3230BDC75008E4BCB /* main.swift in Sources */,
+				E8E8BD0E230E47CD008E4BCB /* Hour Glass 2D.swift in Sources */,
 				E8E8BCFE230BE27C008E4BCB /* Counting Valleys.swift in Sources */,
 				E8E8BCF7230BDD59008E4BCB /* Shock Merchant.swift in Sources */,
 				E8E8BD06230BE5B1008E4BCB /* Repeated String.swift in Sources */,
