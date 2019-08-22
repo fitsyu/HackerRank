@@ -21,6 +21,7 @@
 		E8E8BD0A230C1353008E4BCB /* Electronic Shop.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E8BD09230C1353008E4BCB /* Electronic Shop.swift */; };
 		E8E8BD0C230E28BF008E4BCB /* Hour Glass 2D Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E8BD0B230E28BF008E4BCB /* Hour Glass 2D Tests.swift */; };
 		E8E8BD0E230E47CD008E4BCB /* Hour Glass 2D.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E8BD0D230E47CD008E4BCB /* Hour Glass 2D.swift */; };
+		E8E8BD13230E6F8C008E4BCB /* Left Rotation Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E8BD12230E6F8C008E4BCB /* Left Rotation Tests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		E8E8BD09230C1353008E4BCB /* Electronic Shop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Electronic Shop.swift"; sourceTree = "<group>"; };
 		E8E8BD0B230E28BF008E4BCB /* Hour Glass 2D Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Hour Glass 2D Tests.swift"; sourceTree = "<group>"; };
 		E8E8BD0D230E47CD008E4BCB /* Hour Glass 2D.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Hour Glass 2D.swift"; sourceTree = "<group>"; };
+		E8E8BD12230E6F8C008E4BCB /* Left Rotation Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Left Rotation Tests.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -166,6 +168,7 @@
 			isa = PBXGroup;
 			children = (
 				E8E8BD0B230E28BF008E4BCB /* Hour Glass 2D Tests.swift */,
+				E8E8BD12230E6F8C008E4BCB /* Left Rotation Tests.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -288,6 +291,7 @@
 				E8E8BCFC230BE1B5008E4BCB /* Counting Valley Tests.swift in Sources */,
 				E8E8BD08230C09AE008E4BCB /* Electronic Shop Tests.swift in Sources */,
 				E8E8BD0C230E28BF008E4BCB /* Hour Glass 2D Tests.swift in Sources */,
+				E8E8BD13230E6F8C008E4BCB /* Left Rotation Tests.swift in Sources */,
 				E8E8BD04230BE4D9008E4BCB /* Repeated String Tests.swift in Sources */,
 				E8E8BD00230BE373008E4BCB /* Jumping On Clouds Tests.swift in Sources */,
 			);
