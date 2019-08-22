@@ -105,9 +105,9 @@
 		E8E8BCE5230BDC1A008E4BCB /* HackerRankTests */ = {
 			isa = PBXGroup;
 			children = (
-				E8E8BD11230E6E85008E4BCB /* Array */,
-				E8E8BD10230E6E73008E4BCB /* Warmup */,
 				E8E8BCFA230BDFA6008E4BCB /* etc */,
+				E8E8BD10230E6E73008E4BCB /* Warmup */,
+				E8E8BD11230E6E85008E4BCB /* Array */,
 			);
 			path = HackerRankTests;
 			sourceTree = "<group>";
