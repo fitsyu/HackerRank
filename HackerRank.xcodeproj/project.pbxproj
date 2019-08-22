@@ -19,6 +19,7 @@
 		E8E8BD06230BE5B1008E4BCB /* Repeated String.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E8BD05230BE5B1008E4BCB /* Repeated String.swift */; };
 		E8E8BD08230C09AE008E4BCB /* Electronic Shop Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E8BD07230C09AE008E4BCB /* Electronic Shop Tests.swift */; };
 		E8E8BD0A230C1353008E4BCB /* Electronic Shop.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E8BD09230C1353008E4BCB /* Electronic Shop.swift */; };
+		E8E8BD0C230E28BF008E4BCB /* Hour Glass 2D Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E8BD0B230E28BF008E4BCB /* Hour Glass 2D Tests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		E8E8BD05230BE5B1008E4BCB /* Repeated String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Repeated String.swift"; sourceTree = "<group>"; };
 		E8E8BD07230C09AE008E4BCB /* Electronic Shop Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Electronic Shop Tests.swift"; sourceTree = "<group>"; };
 		E8E8BD09230C1353008E4BCB /* Electronic Shop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Electronic Shop.swift"; sourceTree = "<group>"; };
+		E8E8BD0B230E28BF008E4BCB /* Hour Glass 2D Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Hour Glass 2D Tests.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				E8E8BCFF230BE373008E4BCB /* Jumping On Clouds Tests.swift */,
 				E8E8BD03230BE4D9008E4BCB /* Repeated String Tests.swift */,
 				E8E8BD07230C09AE008E4BCB /* Electronic Shop Tests.swift */,
+				E8E8BD0B230E28BF008E4BCB /* Hour Glass 2D Tests.swift */,
 			);
 			path = HackerRankTests;
 			sourceTree = "<group>";
@@ -256,6 +259,7 @@
 				E8E8BCF9230BDD71008E4BCB /* Shock Merchant Tests.swift in Sources */,
 				E8E8BCFC230BE1B5008E4BCB /* Counting Valley Tests.swift in Sources */,
 				E8E8BD08230C09AE008E4BCB /* Electronic Shop Tests.swift in Sources */,
+				E8E8BD0C230E28BF008E4BCB /* Hour Glass 2D Tests.swift in Sources */,
 				E8E8BD04230BE4D9008E4BCB /* Repeated String Tests.swift in Sources */,
 				E8E8BD00230BE373008E4BCB /* Jumping On Clouds Tests.swift in Sources */,
 			);
