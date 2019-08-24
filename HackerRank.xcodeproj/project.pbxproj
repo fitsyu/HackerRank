@@ -23,6 +23,8 @@
 		E8E8BD0E230E47CD008E4BCB /* Hour Glass 2D.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E8BD0D230E47CD008E4BCB /* Hour Glass 2D.swift */; };
 		E8E8BD13230E6F8C008E4BCB /* Left Rotation Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E8BD12230E6F8C008E4BCB /* Left Rotation Tests.swift */; };
 		E8E8BD15230E7098008E4BCB /* Left Rotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E8BD14230E7098008E4BCB /* Left Rotation.swift */; };
+		E8E8BD182310F18F008E4BCB /* Ransom Note Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E8BD172310F18F008E4BCB /* Ransom Note Tests.swift */; };
+		E8E8BD1B231112EF008E4BCB /* Ransom Note.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E8BD1A231112EF008E4BCB /* Ransom Note.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +59,8 @@
 		E8E8BD0D230E47CD008E4BCB /* Hour Glass 2D.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Hour Glass 2D.swift"; sourceTree = "<group>"; };
 		E8E8BD12230E6F8C008E4BCB /* Left Rotation Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Left Rotation Tests.swift"; sourceTree = "<group>"; };
 		E8E8BD14230E7098008E4BCB /* Left Rotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Left Rotation.swift"; sourceTree = "<group>"; };
+		E8E8BD172310F18F008E4BCB /* Ransom Note Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Ransom Note Tests.swift"; sourceTree = "<group>"; };
+		E8E8BD1A231112EF008E4BCB /* Ransom Note.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Ransom Note.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +106,7 @@
 				E8E8BCF4230BDC8D008E4BCB /* etc */,
 				E8E8BCF5230BDD2D008E4BCB /* Warmup */,
 				E8E8BD0F230E6E5C008E4BCB /* Array */,
+				E8E8BD19231112CE008E4BCB /* Hash and Dictionaries */,
 			);
 			path = HackerRank;
 			sourceTree = "<group>";
@@ -112,6 +117,7 @@
 				E8E8BCFA230BDFA6008E4BCB /* etc */,
 				E8E8BD10230E6E73008E4BCB /* Warmup */,
 				E8E8BD11230E6E85008E4BCB /* Array */,
+				E8E8BD162310F165008E4BCB /* Hash and Dictionaries */,
 			);
 			path = HackerRankTests;
 			sourceTree = "<group>";
@@ -174,6 +180,22 @@
 				E8E8BD12230E6F8C008E4BCB /* Left Rotation Tests.swift */,
 			);
 			path = Array;
+			sourceTree = "<group>";
+		};
+		E8E8BD162310F165008E4BCB /* Hash and Dictionaries */ = {
+			isa = PBXGroup;
+			children = (
+				E8E8BD172310F18F008E4BCB /* Ransom Note Tests.swift */,
+			);
+			path = "Hash and Dictionaries";
+			sourceTree = "<group>";
+		};
+		E8E8BD19231112CE008E4BCB /* Hash and Dictionaries */ = {
+			isa = PBXGroup;
+			children = (
+				E8E8BD1A231112EF008E4BCB /* Ransom Note.swift */,
+			);
+			path = "Hash and Dictionaries";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -278,6 +300,7 @@
 			files = (
 				E8E8BD0A230C1353008E4BCB /* Electronic Shop.swift in Sources */,
 				E8E8BD15230E7098008E4BCB /* Left Rotation.swift in Sources */,
+				E8E8BD1B231112EF008E4BCB /* Ransom Note.swift in Sources */,
 				E8E8BCF3230BDC75008E4BCB /* main.swift in Sources */,
 				E8E8BD0E230E47CD008E4BCB /* Hour Glass 2D.swift in Sources */,
 				E8E8BCFE230BE27C008E4BCB /* Counting Valleys.swift in Sources */,
@@ -294,6 +317,7 @@
 				E8E8BCF9230BDD71008E4BCB /* Shock Merchant Tests.swift in Sources */,
 				E8E8BCFC230BE1B5008E4BCB /* Counting Valley Tests.swift in Sources */,
 				E8E8BD08230C09AE008E4BCB /* Electronic Shop Tests.swift in Sources */,
+				E8E8BD182310F18F008E4BCB /* Ransom Note Tests.swift in Sources */,
 				E8E8BD0C230E28BF008E4BCB /* Hour Glass 2D Tests.swift in Sources */,
 				E8E8BD13230E6F8C008E4BCB /* Left Rotation Tests.swift in Sources */,
 				E8E8BD04230BE4D9008E4BCB /* Repeated String Tests.swift in Sources */,
