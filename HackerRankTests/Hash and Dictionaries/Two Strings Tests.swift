@@ -21,7 +21,7 @@ class TwoStringsTests: XCTestCase {
         let haveSharedSubstring = twoStrings(s1: str1, s2: str2)
         
         // then
-        XCTAssertEqual(haveSharedSubstring, true) // share 'o'
+        XCTAssertEqual(haveSharedSubstring, "YES") // share 'o'
     }
     
     func test2() {
@@ -34,6 +34,6 @@ class TwoStringsTests: XCTestCase {
         let haveSharedSubstring = twoStrings(s1: str1, s2: str2)
         
         // then
-        XCTAssertEqual(haveSharedSubstring, false) // share nothing
+        XCTAssertEqual(haveSharedSubstring, "NO") // share nothing
     }
 }
