@@ -36,4 +36,10 @@ class TwoStringsTests: XCTestCase {
         // then
         XCTAssertEqual(haveSharedSubstring, "NO") // share nothing
     }
+    
+    func test3() {
+        measure {
+            test1()
+        }
+    }
 }
