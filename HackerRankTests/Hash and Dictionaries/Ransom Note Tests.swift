@@ -49,4 +49,18 @@ class RansomNoteTests: XCTestCase {
         // then
         XCTAssertEqual(possible, "No")
     }
+    
+    func test4() {
+        
+        // given
+        let magazineWords = "h ghq g xxy wdnr anjst xxy wdnr h h anjst wdnr".split(separator: " ").map { String($0) }
+        let ransomNote = "h ghq".split(separator: " ").map { String($0) }
+        
+        // when
+        let possible = checkMagazine(magazine: magazineWords, note: ransomNote)
+        
+        // then
+        XCTAssertEqual(possible, "Yes")
+    }
+
 }
