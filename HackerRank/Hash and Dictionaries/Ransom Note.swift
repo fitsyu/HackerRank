@@ -9,7 +9,7 @@
 func checkMagazine(magazine: [String], note: [String]) -> String {
     
     let filtered = magazine.filter { note.contains($0) }
-    let answer = filtered.count == note.count ? "YES" : "NO"
+    let answer = filtered.count == note.count ? "Yes" : "No"
     
     return answer
 }

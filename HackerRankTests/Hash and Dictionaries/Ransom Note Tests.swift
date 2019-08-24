@@ -21,7 +21,7 @@ class RansomNoteTests: XCTestCase {
         let possible = checkMagazine(magazine: magazineWords, note: ransomNote)
         
         // then
-        XCTAssertEqual(possible, "YES")
+        XCTAssertEqual(possible, "Yes")
     }
     
     func test2() {
@@ -34,7 +34,7 @@ class RansomNoteTests: XCTestCase {
         let possible = checkMagazine(magazine: magazineWords, note: ransomNote)
         
         // then
-        XCTAssertEqual(possible, "NO")
+        XCTAssertEqual(possible, "No")
     }
     
     func test3() {
@@ -47,6 +47,6 @@ class RansomNoteTests: XCTestCase {
         let possible = checkMagazine(magazine: magazineWords, note: ransomNote)
         
         // then
-        XCTAssertEqual(possible, "NO")
+        XCTAssertEqual(possible, "No")
     }
 }
