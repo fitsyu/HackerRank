@@ -25,6 +25,7 @@
 		E8E8BD15230E7098008E4BCB /* Left Rotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E8BD14230E7098008E4BCB /* Left Rotation.swift */; };
 		E8E8BD182310F18F008E4BCB /* Ransom Note Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E8BD172310F18F008E4BCB /* Ransom Note Tests.swift */; };
 		E8E8BD1B231112EF008E4BCB /* Ransom Note.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E8BD1A231112EF008E4BCB /* Ransom Note.swift */; };
+		E8E8BD1D231141C8008E4BCB /* Two Strings Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E8BD1C231141C8008E4BCB /* Two Strings Tests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +62,7 @@
 		E8E8BD14230E7098008E4BCB /* Left Rotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Left Rotation.swift"; sourceTree = "<group>"; };
 		E8E8BD172310F18F008E4BCB /* Ransom Note Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Ransom Note Tests.swift"; sourceTree = "<group>"; };
 		E8E8BD1A231112EF008E4BCB /* Ransom Note.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Ransom Note.swift"; sourceTree = "<group>"; };
+		E8E8BD1C231141C8008E4BCB /* Two Strings Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Two Strings Tests.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -186,6 +188,7 @@
 			isa = PBXGroup;
 			children = (
 				E8E8BD172310F18F008E4BCB /* Ransom Note Tests.swift */,
+				E8E8BD1C231141C8008E4BCB /* Two Strings Tests.swift */,
 			);
 			path = "Hash and Dictionaries";
 			sourceTree = "<group>";
@@ -315,6 +318,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E8E8BCF9230BDD71008E4BCB /* Shock Merchant Tests.swift in Sources */,
+				E8E8BD1D231141C8008E4BCB /* Two Strings Tests.swift in Sources */,
 				E8E8BCFC230BE1B5008E4BCB /* Counting Valley Tests.swift in Sources */,
 				E8E8BD08230C09AE008E4BCB /* Electronic Shop Tests.swift in Sources */,
 				E8E8BD182310F18F008E4BCB /* Ransom Note Tests.swift in Sources */,
