@@ -37,6 +37,9 @@ func hourglassSum(arr matrix: [[Int]]) -> Int {
         }
     }
     
-    
-    return sums.max() ?? 0
+    var maxSum = 0
+    if let ms = sums.max() {
+        maxSum = ms
+    }
+    return maxSum
 }

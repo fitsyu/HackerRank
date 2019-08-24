@@ -44,7 +44,6 @@ func jumpingOnClouds(c clouds: [Int]) -> Int {
             jumpCount += 1
             continue
         }
-        
     } while currentCloud != lastCloud
     
     return jumpCount
