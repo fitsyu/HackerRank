@@ -25,3 +25,6 @@ What I don't like about doing this exercise?
   I need to exchange it with some points earned from previous success. 
   But many times the unlocked test case was truncated, giving me no idea what was wrong.
 
+So, after doing some exercises here. We think we need to find the hidden edge cases on our own and put them in test cases set.
+
+So the general loop we take is understand, experiment, design, write test cases, implement, fail fast and repeat till it is OK.
