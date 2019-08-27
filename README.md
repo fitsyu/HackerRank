@@ -15,3 +15,13 @@ Don't be shy to get hints from others when we couldn't figure it out.
 That is how we do and will always do.
 
 Good luck!
+
+
+What I don't like about doing this exercise?
+
+- Sometimes, the challenge is not interesting yet I should get it past anyway.
+
+- Closed test cases.
+  I need to exchange it with some points earned from previous success. 
+  But many times the unlocked test case was truncated, giving me no idea what was wrong.
+
