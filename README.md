@@ -28,3 +28,14 @@ What I don't like about doing this exercise?
 So, after doing some exercises here. We think we need to find the hidden edge cases on our own and put them in test cases set.
 
 So the general loop we take is understand, experiment, design, write test cases, implement, fail fast and repeat till it is OK.
+
+# Solved challenges
+
+- Warmup
+
+  - Shock Merchant
+  - Counting Valleys
+  - Jumping On Clouds
+  - Repeated String
+  - Electronic Shop
+  
