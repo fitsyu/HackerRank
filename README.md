@@ -39,8 +39,8 @@ So the general loop we take is understand, experiment, design, write test cases,
   - Repeated String
   - Electronic Shop
   
- - Array
- 
+- Array
+
   - Hour Glass 2D
   - Left Rotation
   
